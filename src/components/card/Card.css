@@ -1,0 +1,41 @@
+body {
+    margin:0
+}
+
+.card-container{
+    background-color: orange;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25rem;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    flex-wrap: wrap;
+    gap: .5rem;
+    /* flex-direction: column; */
+}
+
+
+
+.title{
+    width: 100%;
+}
+.cards{
+    /* background-color: orange; */
+    width: 80%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    gap: .5rem;
+}
+
+.card{
+    width: 50%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

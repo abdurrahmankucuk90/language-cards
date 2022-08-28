@@ -29,4 +29,4 @@ JsDOM
 ## Preview
 
 
-![Form](checkout_app.gif)
+![Form](LanguageCard.gif)

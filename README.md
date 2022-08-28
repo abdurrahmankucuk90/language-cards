@@ -29,4 +29,4 @@ JsDOM
 ## Preview
 
 
-![Form](LanguageCard.gif)
+![Form]([LanguageCard.gif](https://github.com/abdurrahmankucuk90/language-cards/blob/master/LanguageCards.gif))
